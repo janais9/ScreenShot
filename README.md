@@ -3,7 +3,7 @@ A Python program that captures a screenshot, processes it, saves the result on t
 
 ---
 ## Features✨
-- 📷 Automatically captures a screenshot
+- 📷 Captures a screenshot when program running
 - 🎨 Converts the image to grayscale
 - 🔄 Horizontally flips the image (Mirror)
 - 💾 Saves the processed image to your Desktop
