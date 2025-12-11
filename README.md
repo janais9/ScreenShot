@@ -16,10 +16,13 @@ A Python program that captures a screenshot, processes it, saves the result on t
 
 ---
 ## 📸 Preview
+![App Screenshot](https://raw.githubusercontent.com/janais9/ScreenShot/main/ScreenShott/screenshot_20251208_144647.png)
 
-
+### 📁 Download Structure
 ```screenshot
 Desktop/
  ├─ screenshot_20250115_173245.zip
      └─ screenshot_20250115_173245.png
 ```
+
+
